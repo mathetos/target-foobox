@@ -11,6 +11,7 @@ A WordPress plugin to enhance the "target" menu field to a dropdown of all stand
 ![Enable the Link Target field](assets/enable-link-target.png)
 * Expand the menu item you customize the target for
 * Choose which target you want
+
 ![Choose from the Link Target Dropdown](assets/choose-target-field.png)
 
 ## Targeting FooBox
