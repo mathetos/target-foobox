@@ -1,4 +1,4 @@
-target-foobox
+Add Target FooBox to Menu Items
 =============
 
 A WordPress plugin to enhance the "target" menu field to a dropdown of all standard options with the addition of a "FooBox" target as well.
@@ -13,6 +13,10 @@ A WordPress plugin to enhance the "target" menu field to a dropdown of all stand
 * Choose which target you want
 ![Choose from the Link Target Dropdown](assets/choose-target-field.png)
 
+## Targeting FooBox
+* If you want to launch an Image or a Video from a Menu item, then you don't need this plugin, you just need to add a custom link to your image, and enable "CSS Classes" and add "foobox" as the custom CSS class.
+* If you want to launch a [Hidden Gallery](http://docs.fooplugins.com/foobox/hidden-gallery/) from a menu link, you don't need this plugin either. Just add your hidden gallery somewhere on the page, and add a custom link to that gallery's ID name, and add the custom CSS class "footrigger". See the link I provided for full details.
+* **BUT! If you want to launch an external website**, or any other html content in an iFrame in FooBox... THAT'S when you'll need this plugin. Just make sure you ALSO select "CSS Classes" and add the custom class "foobox" in addition to selecting the target. [More info on the iFrame method here.](http://docs.fooplugins.com/foobox/iframes/).
 
 ## Planned Updates
 * Will be adding a "Custom target" field for other plugins that use custom targets like FooBox does.
